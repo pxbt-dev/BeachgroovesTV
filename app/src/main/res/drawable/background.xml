@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Pink-to-purple wash, like the hero on beachgrooves.com, darkened so white text reads well. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="315"
+        android:centerColor="#8E3A86"
+        android:endColor="#3A1F5C"
+        android:startColor="#C2477F"
+        android:type="linear" />
+</shape>
